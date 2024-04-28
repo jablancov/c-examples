@@ -50,7 +50,7 @@ int funcion4(int x) {
 
 // funcion5(): Imprime un mensaje. Retorna el valor que recibió como argumento
 // incrementado en 5
-int funcion3(int x) {
+int funcion5(int x) {
     printf("En funcion5()...\n");
     int y = x + 5;
     return y;
